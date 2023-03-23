@@ -122,7 +122,7 @@ body {
   padding: 1.6rem 3.2rem;
   border-radius: 9px;
   /* Transition on original state only */
-  transition: background-color 0.3s;
+  transition: all 0.3s;
 }
 
 .btn--full:link,
