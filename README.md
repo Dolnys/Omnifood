@@ -3,7 +3,7 @@
 
 Omnifood is a website project for a fictional company that offers healthy meal delivery services. The website has been designed and implemented to showcase Omnifood's services and promote their nutritious and delicious meals.
 
-Key Features of the Project:
+## Key Features of the Project:
 
 Responsive Design: The website is optimized for various devices and screen sizes, ensuring a seamless experience on desktops, tablets, and smartphones.
 
@@ -17,7 +17,7 @@ Customer Testimonials: It showcases testimonials from satisfied customers, affir
 
 Contact Form: It allows users to get in touch with Omnifood for inquiries, suggestions, or placing orders.
 
-Technologies Used in the Project:
+## Technologies Used in the Project:
 
 HTML
 CSS
